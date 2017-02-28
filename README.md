@@ -19,6 +19,7 @@
 
 ## Полезные ресурсы
 - [Сайт для поиска и сравнения батареек](https://djangopackages.org/)
+- [Github репозиторий, содержащий список батареек, проектов и полезных ресурсов](https://github.com/rosarior/awesome-django)
 - [Всё о Class-Based Views](http://ccbv.co.uk/)
 - [Помощь по Django REST Framework](http://www.cdrf.co/)
 - [Список must-watch докладов](https://gitlab.com/rosarior/django-must-watch)
