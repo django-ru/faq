@@ -13,12 +13,15 @@
 
 ## Туториалы и статьи
 - [Туториал от Djangogirls](https://tutorial.djangogirls.org/)
+- [Туториал от Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 - [Деплоймент связки django+psql+nginx+gunicorn на Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04)
 - [Деплоймент связки django+nginx+uwsgi на Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04)
 
 ## Полезные ресурсы
 - [Сайт для поиска и сравнения батареек](https://djangopackages.org/)
+- [Github репозиторий, содержащий список батареек, проектов и полезных ресурсов](https://github.com/rosarior/awesome-django)
 - [Всё о Class-Based Views](http://ccbv.co.uk/)
 - [Помощь по Django REST Framework](http://www.cdrf.co/)
 - [Список must-watch докладов](https://gitlab.com/rosarior/django-must-watch)
 - [Django-хаб хабрахабра](https://habrahabr.ru/hub/django/)
+- [Django на Python Дайджесте](https://pythondigest.ru/feed/?q=django)
