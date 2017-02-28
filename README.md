@@ -13,6 +13,7 @@
 
 ## Туториалы и статьи
 - [Туториал от Djangogirls](https://tutorial.djangogirls.org/)
+- [Туториал от Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 - [Деплоймент связки django+psql+nginx+gunicorn на Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04)
 - [Деплоймент связки django+nginx+uwsgi на Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04)
 
