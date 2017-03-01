@@ -25,3 +25,6 @@
 - [Список must-watch докладов](https://gitlab.com/rosarior/django-must-watch)
 - [Django-хаб хабрахабра](https://habrahabr.ru/hub/django/)
 - [Django на Python Дайджесте](https://pythondigest.ru/feed/?q=django)
+
+## Видео
+- [Основы веб-разработки](https://www.youtube.com/playlist?list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ) - Обзорный курс, читавшийся в рамках образовательного проекта Mail.Ru Group - Технотрек. Курс посвящен разработке web-приложений среднего масшатаба, с использованием Django.
