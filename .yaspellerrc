@@ -1,0 +1,19 @@
+{
+  "lang": "en,ru",
+  "fileExtensions": [
+    ".md"
+  ],
+  "ignoreCapitalization": true,
+  "dictionary": [
+    "django",
+    "github",
+    "gunicorn",
+    "nginx",
+    "postgres",
+    "ru",
+    "uwsgi",
+    "технотрек",
+    "хаб",
+    "хабрахабр"
+  ]
+}
