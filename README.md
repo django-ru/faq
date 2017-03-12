@@ -1,4 +1,4 @@
-# FAQ telegram-чата pydjango (https://t.me/pydjango)
+# FAQ telegram-чата pydjango [@pydjango](https://t.me/pydjango)
 
 В этом репозитории находится полезная информация, собранная участниками чата.
 
