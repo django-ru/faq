@@ -6,9 +6,11 @@
   "ignoreCapitalization": true,
   "dictionary": [
     "django",
+    "dpaste",
     "github",
     "gunicorn",
     "nginx",
+    "pastebin",
     "postgres",
     "ru",
     "uwsgi",
