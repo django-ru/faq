@@ -36,7 +36,7 @@
 
 ## Open source Django проекты для практики
 - [Taiga](https://github.com/taigaio/taiga-back)
-- [Django Project](https://www.djangoproject.com/)
+- [Django Project](https://github.com/django/djangoproject.com)
 - [Django Girls](https://github.com/djangogirls)
 - [Sentry](https://github.com/getsentry/sentry)
 - [JazzBand](https://github.com/jazzband)
