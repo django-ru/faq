@@ -42,13 +42,16 @@
 - [JazzBand](https://github.com/jazzband)
 - [Mezzanine CMS](https://github.com/stephenmcd/mezzanine)
 - [Health checks](https://github.com/healthchecks/healthchecks)
-- [Bedrock mozilla.org](https://github.com/mozilla/bedrock)
+- [Bedrock Mozilla](https://github.com/mozilla/bedrock)
+- [Pontoon Mozilla](https://github.com/mozilla/pontoon)
+- [Kuma MDN Mozilla](https://github.com/mozilla/kuma)
+- [Mozillians - Mozilla contributors](https://github.com/mozilla/mozillians)
+- [Addons Mozilla](https://github.com/mozilla/addons-server)
 - [Review board](https://github.com/reviewboard/reviewboard)
 - [Django Packages](https://github.com/djangopackages/djangopackages)
 - [Edx platform](https://github.com/edx/edx-platform)
 - [PyCon](https://github.com/PyCon/pycon)
 - [Pinax](https://github.com/pinax/symposion)
-- [Awesome Django](https://github.com/rosarior/awesome-django)
 
 ## Пожелания для участников чата
 Рекомендуется форматировать куски кода, которые вы отправляете в чат:
