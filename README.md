@@ -29,7 +29,7 @@
 - [Основы веб-разработки](https://www.youtube.com/playlist?list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ) - Обзорный курс, читавшийся в рамках образовательного проекта Mail.Ru Group - Технотрек. Курс посвящен разработке web-приложений среднего масштаба, с использованием Django.
 - [Курс по разработке блога на Django 1.9 от CodingEntrepreneurs (плейлист)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy)
 - [Курс по разработке веб-приложения для сокращения ссылок на Django 1.10 от CodingEntrepreneurs (плейлист)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQSEMN5PXvEWuD2gEWVngCZ)
-- [Курс по разработке веб-приложения на Django 1.11 от CodingEntrepreneurs (8 часов)](https://www.youtube.com/watch?v=yDv5FIAeyoY)
+- [Курс по разработке веб-приложения на Django 1.11 от CodingEntrepreneurs](https://www.youtube.com/watch?v=yDv5FIAeyoY)
 - [Руководство по публикации Django-приложения на Heroku от CodingEntrepreneurs](https://www.youtube.com/watch?v=4DggiEkbCTg)
 
 ## Онлайн-курсы
