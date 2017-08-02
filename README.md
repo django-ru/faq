@@ -31,6 +31,10 @@
 ## Онлайн-курсы
 - [Web-технологии](https://stepik.org/course/Web-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-154/) - Курс посвящен разработке серверной части web-приложений с использованием Django, их архитектуре и протоколу HTTP. Курс состоит из видео-лекций и практических заданий.
 
+## Проходим интервью
+- [Полезные ссылки (Django, Python)](https://github.com/MaximAbramchuck/awesome-interview-questions#django)
+- [Интересные вопросы от биржи Toptal](https://www.toptal.com/python/interview-questions)
+
 ## Презентации
 - [Презентации по Django с онлайн-курса Web-технологии](https://github.com/amureki/django_faq/blob/master/slides.md)
 
