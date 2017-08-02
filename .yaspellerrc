@@ -1,31 +1,12 @@
 {
-  "lang": "en,ru",
+  "lang": "ru",
   "fileExtensions": [
     ".md"
   ],
   "ignoreCapitalization": true,
   "dictionary": [
-    "django",
-    "dpaste",
-    "github",
-    "gunicorn",
-    "nginx",
-    "pastebin",
-    "postgres",
-    "ru",
-    "uwsgi",
     "технотрек",
     "хаб",
-    "хабрахабр",
-    "backend",
-    "frontend",
-    "MVC",
-    "JazzBand",
-    "Edx",
-    "Pinax",
-    "PyCon",
-    "Kuma",
-    "MDN",
-    "Mozillians"
+    "хабрахабр"
   ]
 }
