@@ -16,6 +16,16 @@
 - [Deployment связки django+postgres+nginx+gunicorn на Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04)
 - [Deployment связки django+nginx+uwsgi на Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04)
 
+## Руководство по написанию кода
+- [PEP8](https://www.python.org/dev/peps/pep-0008/)
+- [Официальное руководство по написанию кода от разработчиков Django](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+- [Github репозиторий с руководствами по написанию кода](https://github.com/octoenergy/styleguide/blob/master/python.md)
+
+## Тестирование 
+- [Документация по Django тестированию от Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing)
+- [Официальная документация](https://docs.djangoproject.com/en/1.11/topics/testing/)
+- [The Hitchhiker’s Guide to Python!](http://python-guide-pt-br.readthedocs.io/en/latest/writing/tests/)
+
 ## Полезные ресурсы
 - [Сайт для поиска и сравнения батареек](https://djangopackages.org/)
 - [github репозиторий, содержащий список батареек, проектов и полезных ресурсов](https://github.com/rosarior/awesome-django)
