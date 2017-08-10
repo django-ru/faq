@@ -53,6 +53,7 @@
 - [Презентации по Django с онлайн-курса Web-технологии](https://github.com/amureki/django_faq/blob/master/slides.md)
 
 ## Open source Django проекты для практики
+- [Pythondotorg](https://github.com/python/pythondotorg)
 - [Taiga](https://github.com/taigaio/taiga-back)
 - [Django Project](https://github.com/django/djangoproject.com)
 - [Django Girls](https://github.com/djangogirls)
@@ -77,7 +78,7 @@
 Осмыслите и сформулируйте свой вопрос, далее задайте его одним-двумя сообщениями.
 3. Telegram позволяет форматировать куски кода:
 
-    ```  
+    ```
     def main():
       return 'hello pydjango!'
     ```
