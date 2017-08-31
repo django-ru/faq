@@ -49,6 +49,9 @@
 - [Полезные ссылки (Django, Python)](https://github.com/MaximAbramchuck/awesome-interview-questions#django)
 - [Интересные вопросы от биржи Toptal](https://www.toptal.com/python/interview-questions)
 
+## Работа
+- [Telegram-канал, посвященный поиску и предложениям вакансий на Python/Django](https://t.me/django_jobs)
+
 ## Презентации
 - [Презентации по Django с онлайн-курса Web-технологии](https://github.com/amureki/django_faq/blob/master/slides.md)
 
