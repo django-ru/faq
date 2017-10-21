@@ -31,6 +31,7 @@
 - [github репозиторий, содержащий список батареек, проектов и полезных ресурсов](https://github.com/rosarior/awesome-django)
 - [Всё о Class-Based Views](http://ccbv.co.uk/)
 - [Помощь по Django REST Framework](http://www.cdrf.co/)
+- [Classy Django Forms](http://cdf.9vo.lt/)
 - [Список must-watch докладов](https://gitlab.com/rosarior/django-must-watch)
 - [Django-хаб хабрахабра](https://habrahabr.ru/hub/django/)
 - [Django на Python Дайджесте](https://pythondigest.ru/feed/?q=django)
