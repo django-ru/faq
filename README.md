@@ -75,6 +75,7 @@
 - [Edx platform](https://github.com/edx/edx-platform)
 - [PyCon](https://github.com/PyCon/pycon)
 - [Pinax](https://github.com/pinax/symposion)
+- [ADFS_Managers](https://github.com/Imperat/ADFS_managers)
 
 ## Пожелания для участников чата
 1. Скриншоты кода, а так же вложенные файлы с оным крайне не приветствуются.
