@@ -1,62 +1,76 @@
-# FAQ telegram-чата pydjango [@pydjango](https://t.me/pydjango)
+# FAQ by telegram-chat [@pydjango](https://t.me/pydjango) 🇬🇧
 
-В этом репозитории находится полезная информация, собранная участниками чата.
+In this repository you can find useful information collected by chat users.
 
-## С чего начать
-- [Официальная документация](https://docs.djangoproject.com/en/1.10/)
-- [Адаптированная на русский язык версия документации](http://djbook.ru/)
+[Russian version](README_RU.md)
 
-## Книги
-- [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8/) - must-read книга с best practices
-- [Tango With Django](http://www.tangowithdjango.com/)
+## Where to start
 
-## Статьи
-- [Tutorial от Djangogirls](https://tutorial.djangogirls.org/)
-- [Tutorial от Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
-- [Deployment связки django+postgres+nginx+gunicorn на Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04)
-- [Deployment связки django+nginx+uwsgi на Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04)
+- [Official documentation](https://docs.djangoproject.com/en/) 🇬🇧
+- [Documentation, translated to russian](http://djbook.ru/) 🇷🇺
 
-## Руководство по написанию кода
-- [PEP8](https://www.python.org/dev/peps/pep-0008/)
-- [Официальное руководство по написанию кода от разработчиков Django](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
-- [Github репозиторий с руководствами по написанию кода](https://github.com/octoenergy/styleguide/blob/master/python.md)
+## Books
 
-## Тестирование 
-- [Документация по Django тестированию от Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing)
-- [Официальная документация](https://docs.djangoproject.com/en/1.11/topics/testing/)
-- [The Hitchhiker’s Guide to Python!](http://python-guide-pt-br.readthedocs.io/en/latest/writing/tests/)
+- [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8/) - must-read book with Django best practices 🇬🇧
+- [Tango With Django](http://www.tangowithdjango.com/) 🇬🇧
 
-## Полезные ресурсы
-- [Сайт для поиска и сравнения батареек](https://djangopackages.org/)
-- [github репозиторий, содержащий список батареек, проектов и полезных ресурсов](https://github.com/rosarior/awesome-django)
-- [Всё о Class-Based Views](http://ccbv.co.uk/)
-- [Помощь по Django REST Framework](http://www.cdrf.co/)
-- [Classy Django Forms](http://cdf.9vo.lt/)
-- [Список must-watch докладов](https://gitlab.com/rosarior/django-must-watch)
-- [Django-хаб хабрахабра](https://habrahabr.ru/hub/django/)
-- [Django на Python Дайджесте](https://pythondigest.ru/feed/?q=django)
+## Articles
 
-## Видео
-- [Основы веб-разработки](https://www.youtube.com/playlist?list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ) - Обзорный курс, читавшийся в рамках образовательного проекта Mail.Ru Group - Технотрек. Курс посвящен разработке web-приложений среднего масштаба, с использованием Django.
-- [Курс по разработке блога на Django 1.9 от CodingEntrepreneurs (плейлист)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy)
-- [Курс по разработке веб-приложения для сокращения ссылок на Django 1.10 от CodingEntrepreneurs (плейлист)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQSEMN5PXvEWuD2gEWVngCZ)
-- [Курс по разработке веб-приложения на Django 1.11 от CodingEntrepreneurs](https://www.youtube.com/watch?v=yDv5FIAeyoY)
-- [Руководство по публикации Django-приложения на Heroku от CodingEntrepreneurs](https://www.youtube.com/watch?v=4DggiEkbCTg)
+- [Tutorial by Djangogirls](https://tutorial.djangogirls.org/) 🇬🇧 🇷🇺
+- [Tutorial by Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 🇬🇧
+- [How to set up Django with Postgres, nginx and gunicorn on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04) 🇬🇧
+- [How to sesrve Django applications with uwsgi and nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04) 🇬🇧
 
-## Онлайн-курсы
-- [Web-технологии](https://stepik.org/course/Web-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-154/) - Курс посвящен разработке серверной части web-приложений с использованием Django, их архитектуре и протоколу HTTP. Курс состоит из видео-лекций и практических заданий.
+## Code style and linting
 
-## Проходим интервью
-- [Полезные ссылки (Django, Python)](https://github.com/MaximAbramchuck/awesome-interview-questions#django)
-- [Интересные вопросы от биржи Toptal](https://www.toptal.com/python/interview-questions)
+- [PEP8](https://www.python.org/dev/peps/pep-0008/) 🇬🇧
+- [Official Django coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/) 🇬🇧
+- [Github repository with good Python+Django style guide](https://github.com/octoenergy/styleguide/blob/master/python.md) 🇬🇧
 
-## Работа
-- [Telegram-канал, посвященный поиску и предложениям вакансий на Python/Django](https://t.me/django_jobs)
+## Testing
 
-## Презентации
-- [Презентации по Django с онлайн-курса Web-технологии](https://github.com/amureki/django_faq/blob/master/slides.md)
+- [Mozilla docs about Django testing](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing) 🇬🇧
+- [Official Django Testing documentation](https://docs.djangoproject.com/en/dev/topics/testing/) 🇬🇧
+- [The Hitchhiker’s Guide to Python!](http://python-guide-pt-br.readthedocs.io/en/latest/writing/tests/) 🇬🇧
 
-## Open source Django проекты для практики
+## Useful resourses
+
+- [djangopackages.org](https://djangopackages.org/) 🇬🇧
+- [Awesome Django](https://github.com/rosarior/awesome-django) 🇬🇧
+- [Django Class-Based Views](http://ccbv.co.uk/) 🇬🇧
+- [Django REST Framework cheatsheet](http://www.cdrf.co/) 🇬🇧
+- [Classy Django Forms](http://cdf.9vo.lt/) 🇬🇧
+- [Django must-watch videos](https://gitlab.com/rosarior/django-must-watch) 🇬🇧
+- [Django-hub on Habrahabr](https://habrahabr.ru/hub/django/) 🇷🇺
+- [Django tag on Python Digest RU](https://pythondigest.ru/feed/?q=django) 🇷🇺
+
+## Video
+
+- [Web-development basics](https://www.youtube.com/playlist?list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ) - Beginner level course by Mail.RU Group. Covers basics of web-development including Django Framework. 🇷🇺
+- [Writing blog with Django 1.9 by CodingEntrepreneurs (playlist)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy) 🇬🇧
+- [Course for creating url shortener with Django 1.10 by CodingEntrepreneurs (playlist)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQSEMN5PXvEWuD2gEWVngCZ) 🇬🇧
+- [Writing web-application with Django 1.11 by CodingEntrepreneurs](https://www.youtube.com/watch?v=yDv5FIAeyoY) 🇬🇧
+- [Deployment Django application on Heroku platform by CodingEntrepreneurs](https://www.youtube.com/watch?v=4DggiEkbCTg) 🇬🇧
+
+## Online-courses
+
+- [Web-technologies](https://stepik.org/course/Web-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-154/) - Writing server-side web applications with Django, including learning architecture and HTTP-stack. 🇷🇺
+
+## Interviews
+
+- [Useful links (Django, Python)](https://github.com/MaximAbramchuck/awesome-interview-questions#django) 🇬🇧
+- [Questions compilation by Toptal](https://www.toptal.com/python/interview-questions) 🇬🇧
+
+## Job
+
+- [Telegram-chat, for job offers and CV's related to Python/Django](https://t.me/django_jobs) 🇷🇺
+
+## Slides
+
+- [Slides abou Django from Web-technologies course](slides.md) 🇷🇺
+
+## Open source Django projects
+
 - [Python.org](https://github.com/python/pythondotorg)
 - [Taiga](https://github.com/taigaio/taiga-back)
 - [Django Project](https://github.com/django/djangoproject.com)
@@ -80,17 +94,17 @@
 - [Nodeshot](https://github.com/ninuxorg/nodeshot)
 - [Zulip server - group chat](https://github.com/zulip/zulip)
 
-## Пожелания для участников чата
-1. Скриншоты кода, а так же вложенные файлы с оным крайне не приветствуются.
-2. Постарайтесь не писать односложные сообщения в ряд.
-Осмыслите и сформулируйте свой вопрос, далее задайте его одним-двумя сообщениями.
-3. Telegram позволяет форматировать куски кода:
+## Chat rules and recomemndations
 
-    ```
+- Please, don't write tons of oneline messages. Think about your topic/question and then make one-two detailed messages
+- We don't like code screenshots and code snippets in attachments
+- Telegram allows us to format code snippets:
+
+    ```python
     def main():
       return 'hello pydjango!'
     ```
 
-    В случае с большими фрагментами, пользуйтесь специальными сервисами:
-     - [dpaste.de](https://dpaste.de/)
-     - [github gist](https://gist.github.com/)
+- In case of long snippets, please use special services:
+  - [dpaste.de](https://dpaste.de/)
+  - [github gist](https://gist.github.com/)
