@@ -2,7 +2,7 @@
 
 In this repository you can find useful information collected by chat users.
 
-[Russian version](README_RU.md)
+[Russian version](README.md)
 
 ## Where to start
 
