@@ -97,12 +97,19 @@ In this repository you can find useful information collected by chat users.
 ## Chat rules and recomemndations
 
 - Please, don't write tons of oneline messages. Think about your topic/question and then make one-two detailed messages
+- Try not to go off topic
 - We don't like code screenshots and code snippets in attachments
 - Telegram allows us to format code snippets:
 
     ```python
-    def main():
-      return 'hello pydjango!'
+        `print('Django FTW')`
+    ```
+
+    ```python
+        ```
+        def main():
+            return 'Hello @pydjango!'
+        ```
     ```
 
 - In case of long snippets, please use special services:
