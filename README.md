@@ -16,7 +16,7 @@
 
 ## Статьи
 
-- [Tutorial от Djangogirls](https://tutorial.djangogirls.org/) 🇬🇧 🇷🇺
+- [Tutorial от Django Girls](https://tutorial.djangogirls.org/) 🇬🇧 🇷🇺
 - [Tutorial от Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 🇬🇧
 - [Deployment связки django+postgres+nginx+gunicorn на Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04) 🇬🇧
 - [Deployment связки django+nginx+uwsgi на Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04) 🇬🇧
@@ -97,7 +97,7 @@
 ## Правила и пожелания для участников чата
 
 - Постарайтесь не писать односложные сообщения в ряд. Осмыслите и сформулируйте свой вопрос, далее задайте его одним-двумя сообщениями
-- Оффтоп (сообщения не относящиеся напрямую к теме чата) не приветствуется
+- Off-topic сообщения (не относящиеся напрямую к теме чата) не приветствуется
 - Скриншоты кода, а также вложенные файлы с оным крайне не приветствуются
 - Telegram позволяет форматировать куски кода:
 

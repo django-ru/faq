@@ -16,10 +16,10 @@ In this repository you can find useful information collected by chat users.
 
 ## Articles
 
-- [Tutorial by Djangogirls](https://tutorial.djangogirls.org/) 🇬🇧 🇷🇺
+- [Tutorial by Django Girls](https://tutorial.djangogirls.org/) 🇬🇧 🇷🇺
 - [Tutorial by Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 🇬🇧
 - [How to set up Django with Postgres, nginx and gunicorn on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04) 🇬🇧
-- [How to sesrve Django applications with uwsgi and nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04) 🇬🇧
+- [How to serve Django applications with uwsgi and nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04) 🇬🇧
 
 ## Code style and linting
 
@@ -67,7 +67,7 @@ In this repository you can find useful information collected by chat users.
 
 ## Slides
 
-- [Slides abou Django from Web-technologies course](slides.md) 🇷🇺
+- [Slides about Django from Web-technologies course](slides.md) 🇷🇺
 
 ## Open source Django projects
 
@@ -94,9 +94,9 @@ In this repository you can find useful information collected by chat users.
 - [Nodeshot](https://github.com/ninuxorg/nodeshot)
 - [Zulip server - group chat](https://github.com/zulip/zulip)
 
-## Chat rules and recomemndations
+## Chat rules and recommendations
 
-- Please, don't write tons of oneline messages. Think about your topic/question and then make one-two detailed messages
+- Please, don't write tons of one line messages. Think about your topic/question and then make one-two detailed messages
 - Try not to go off topic
 - We don't like code screenshots and code snippets in attachments
 - Telegram allows us to format code snippets:
