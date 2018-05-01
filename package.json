@@ -11,7 +11,7 @@
     "url": "git+https://github.com/amureki/django_faq.git"
   },
   "author": "amureki",
-  "license": "CC-BY-SA",
+  "license": "CC-BY-SA-4.0",
   "bugs": {
     "url": "https://github.com/amureki/django_faq/issues"
   },
