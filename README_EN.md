@@ -43,6 +43,7 @@ In this repository you can find useful information collected by chat users.
 - [Django must-watch videos](https://gitlab.com/rosarior/django-must-watch) 🇬🇧
 - [Django-hub on Habrahabr](https://habrahabr.ru/hub/django/) 🇷🇺
 - [Django tag on Python Digest RU](https://pythondigest.ru/feed/?q=django) 🇷🇺
+- [Newbie mistakes](https://code.djangoproject.com/wiki/NewbieMistakes) 🇬🇧
 
 ## Video
 

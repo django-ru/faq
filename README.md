@@ -43,7 +43,7 @@
 - [Список must-watch докладов](https://gitlab.com/rosarior/django-must-watch) 🇬🇧
 - [Django-хаб хабрахабра](https://habrahabr.ru/hub/django/) 🇷🇺
 - [Django на Python Дайджесте](https://pythondigest.ru/feed/?q=django) 🇷🇺
-- [Руководство для новичка](https://code.djangoproject.com/wiki/NewbieMistakes) 🇬🇧
+- [Ошибки новичков](https://code.djangoproject.com/wiki/NewbieMistakes) 🇬🇧
 
 ## Видео
 
