@@ -1,12 +1,15 @@
 {
+  "excludeFiles": [
+    ".git",
+    "node_modules"
+  ],
   "lang": "ru",
   "fileExtensions": [
     ".md"
   ],
-  "ignoreCapitalization": true,
   "dictionary": [
     "технотрек",
     "хаб",
-    "хабрахабр"
+    "хабрахабра?"
   ]
 }
