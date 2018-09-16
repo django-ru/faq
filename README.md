@@ -41,7 +41,7 @@
 - [Помощь по Django REST Framework](http://www.cdrf.co/) 🇬🇧
 - [Classy Django Forms](http://cdf.9vo.lt/) 🇬🇧
 - [Список must-watch докладов](https://gitlab.com/rosarior/django-must-watch) 🇬🇧
-- [Django-хаб хабрахабра](https://habrahabr.ru/hub/django/) 🇷🇺
+- [Django-хаб Хабрахабра](https://habrahabr.ru/hub/django/) 🇷🇺
 - [Django на Python Дайджесте](https://pythondigest.ru/feed/?q=django) 🇷🇺
 - [Ошибки новичков](https://code.djangoproject.com/wiki/NewbieMistakes) 🇬🇧
 

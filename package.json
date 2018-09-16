@@ -1,10 +1,10 @@
 {
   "name": "django_faq",
   "version": "1.0.0",
-  "description": "FAQ telegram-чата pydjango @pydjango",
+  "description": "FAQ telegram-чата @pydjango",
   "scripts": {
     "spellcheck": "yaspeller-ci",
-    "test": "npm run spellcheck *.md"
+    "test": "npm run spellcheck ."
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/amureki/django_faq#readme",
   "devDependencies": {
     "yaspeller-ci": "^1.0.0"
+  },
+  "dependencies": {
+    "yaspeller": "^5.0.0"
   }
 }
