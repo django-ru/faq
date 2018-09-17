@@ -13,6 +13,7 @@ In this repository you can find useful information collected by chat users.
 
 - [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8/) - must-read book with Django best practices 🇬🇧
 - [Tango With Django](http://www.tangowithdjango.com/) 🇬🇧
+- [Building Django 2.0 Web Applications](https://www.packtpub.com/web-development/building-django-20-web-applications) 🇬🇧
 
 ## Articles
 
