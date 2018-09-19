@@ -53,7 +53,7 @@ In this repository you can find useful information collected by chat users.
 - [Course for creating url shortener with Django 1.10 by CodingEntrepreneurs (playlist)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQSEMN5PXvEWuD2gEWVngCZ) 🇬🇧
 - [Writing web-application with Django 1.11 by CodingEntrepreneurs](https://www.youtube.com/watch?v=yDv5FIAeyoY) 🇬🇧
 - [Deployment Django application on Heroku platform by CodingEntrepreneurs](https://www.youtube.com/watch?v=4DggiEkbCTg) 🇬🇧
-- [Django Channels - introductory material](https://youtu.be/ij0PiSlYBu0) 🇷🇺
+- [Django Channels - introductory material](https://youtu.be/ij0PiSlYBu0) 🇷🇺 
 
 ## Online-courses
 
