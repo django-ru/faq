@@ -53,6 +53,7 @@
 - [Курс по разработке веб-приложения для сокращения ссылок на Django 1.10 от CodingEntrepreneurs (плейлист)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQSEMN5PXvEWuD2gEWVngCZ) 🇬🇧
 - [Курс по разработке веб-приложения на Django 1.11 от CodingEntrepreneurs](https://www.youtube.com/watch?v=yDv5FIAeyoY) 🇬🇧
 - [Руководство по публикации Django-приложения на Heroku от CodingEntrepreneurs](https://www.youtube.com/watch?v=4DggiEkbCTg) 🇬🇧
+- [Django Channels - ответ современному вебу](https://youtu.be/ij0PiSlYBu0) 🇷🇺
 
 ## Онлайн-курсы
 
