@@ -11,7 +11,7 @@ In this repository you can find useful information collected by chat users.
 
 ## Books
 
-- [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8/) - must-read book with Django best practices 🇬🇧
+- [Two Scoops of Django](https://twoscoopspress.com/products/two-scoops-of-django-1-11/) - must-read book with Django best practices 🇬🇧
 - [Tango With Django](http://www.tangowithdjango.com/) 🇬🇧
 - [Building Django 2.0 Web Applications](https://www.packtpub.com/web-development/building-django-20-web-applications) 🇬🇧
 
@@ -20,7 +20,7 @@ In this repository you can find useful information collected by chat users.
 - [Tutorial by Django Girls](https://tutorial.djangogirls.org/) 🇬🇧 🇷🇺
 - [Tutorial by Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 🇬🇧
 - [How to set up Django with Postgres, nginx and gunicorn on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04) 🇬🇧
-- [How to serve Django applications with uwsgi and nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04) 🇬🇧
+- [How to serve Django applications with uwsgi and nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-16-04) 🇬🇧
 
 ## Code style and linting
 
