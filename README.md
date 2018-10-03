@@ -11,7 +11,7 @@
 
 ## Книги
 
-- [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8/) - must-read книга с best practices 🇬🇧
+- [Two Scoops of Django](https://twoscoopspress.com/products/two-scoops-of-django-1-11/) - must-read книга с best practices 🇬🇧
 - [Tango With Django](http://www.tangowithdjango.com/) 🇬🇧
 - [Building Django 2.0 Web Applications](https://www.packtpub.com/web-development/building-django-20-web-applications) 🇬🇧
 
@@ -20,7 +20,7 @@
 - [Tutorial от Django Girls](https://tutorial.djangogirls.org/) 🇬🇧 🇷🇺
 - [Tutorial от Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 🇬🇧 🇷🇺
 - [Deployment связки django+postgres+nginx+gunicorn на Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04) 🇬🇧
-- [Deployment связки django+nginx+uwsgi на Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04) 🇬🇧
+- [Deployment связки django+nginx+uwsgi на Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-16-04) 🇬🇧
 
 ## Руководство по написанию кода
 
