@@ -82,6 +82,7 @@ In this repository you can find useful information collected by chat users.
 - [JazzBand](https://github.com/jazzband)
 - [Mezzanine CMS](https://github.com/stephenmcd/mezzanine)
 - [Health checks](https://github.com/healthchecks/healthchecks)
+- [Treeherder Mozilla](https://github.com/mozilla/treeherder)
 - [Bedrock Mozilla](https://github.com/mozilla/bedrock)
 - [Pontoon Mozilla](https://github.com/mozilla/pontoon)
 - [Kuma MDN Mozilla](https://github.com/mozilla/kuma)
