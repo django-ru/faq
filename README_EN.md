@@ -49,6 +49,7 @@ In this repository you can find useful information collected by chat users.
 ## Video
 
 - [Web-development basics](https://www.youtube.com/playlist?list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ) - Beginner level course by Mail.RU Group. Covers basics of web-development including Django Framework. 🇷🇺
+- [Writing blog with Django 2.2 by CodingEntrepreneurs](https://youtu.be/-oQvMHpKkms) 🇬🇧
 - [Writing blog with Django 1.9 by CodingEntrepreneurs (playlist)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy) 🇬🇧
 - [Course for creating url shortener with Django 1.10 by CodingEntrepreneurs (playlist)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQSEMN5PXvEWuD2gEWVngCZ) 🇬🇧
 - [Writing web-application with Django 1.11 by CodingEntrepreneurs](https://www.youtube.com/watch?v=yDv5FIAeyoY) 🇬🇧
