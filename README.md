@@ -19,7 +19,7 @@
 
 - [Tutorial от Django Girls](https://tutorial.djangogirls.org/) 🇬🇧 🇷🇺
 - [Tutorial от Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 🇬🇧 🇷🇺
-- [Deployment связки django+postgres+nginx+gunicorn на Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04) 🇬🇧
+- [Deployment связки django+postgres+nginx+gunicorn на Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-18-04) 🇬🇧
 - [Deployment связки django+nginx+uwsgi на Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-16-04) 🇬🇧
 
 ## Руководство по написанию кода
@@ -30,14 +30,14 @@
 
 ## Тестирование
 
-- [Документация по Django тестированию от Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing) 🇬🇧
 - [Официальная документация](https://docs.djangoproject.com/en/dev/topics/testing/) 🇬🇧
-- [The Hitchhiker’s Guide to Python!](http://python-guide-pt-br.readthedocs.io/en/latest/writing/tests/) 🇬🇧
+- [Документация по Django тестированию от Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing) 🇬🇧
+- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/writing/tests/#the-basics) 🇬🇧
 
 ## Полезные ресурсы
 
 - [Сайт для поиска и сравнения батареек](https://djangopackages.org/) 🇬🇧
-- [github репозиторий, содержащий список батареек, проектов и полезных ресурсов](https://github.com/rosarior/awesome-django) 🇬🇧
+- [github репозиторий, содержащий список батареек, проектов и полезных ресурсов](https://github.com/wsvincent/awesome-django) 🇬🇧
 - [Всё о Class-Based Views](http://ccbv.co.uk/) 🇬🇧
 - [Помощь по Django REST Framework](http://www.cdrf.co/) 🇬🇧
 - [Classy Django Forms](http://cdf.9vo.lt/) 🇬🇧
