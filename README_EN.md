@@ -96,7 +96,6 @@ In this repository you can find useful information collected by chat users.
 - [Pinax](https://github.com/pinax/symposion)
 - [ADFS_Managers](https://github.com/Imperat/ADFS_managers)
 - [Cadasta platform](https://github.com/Cadasta/cadasta-platform)
-- [Nodeshot](https://github.com/ninuxorg/nodeshot)
 - [Zulip server - group chat](https://github.com/zulip/zulip)
 
 ## Chat rules and recommendations
