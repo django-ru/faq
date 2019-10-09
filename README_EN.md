@@ -1,8 +1,8 @@
 # FAQ by telegram-chat [@pydjango](https://t.me/pydjango) 🇬🇧
 
-In this repository you can find useful information collected by chat users.
-
 [Russian version](README.md)
+
+In this repository you can find useful information collected by chat users.
 
 ## Where to start
 
@@ -19,7 +19,7 @@ In this repository you can find useful information collected by chat users.
 
 - [Tutorial by Django Girls](https://tutorial.djangogirls.org/) 🇬🇧 🇷🇺
 - [Tutorial by Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 🇬🇧
-- [How to set up Django with Postgres, nginx and gunicorn on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04) 🇬🇧
+- [How to set up Django with Postgres, nginx and gunicorn on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-18-04) 🇬🇧
 - [How to serve Django applications with uwsgi and nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-16-04) 🇬🇧
 
 ## Code style and linting
@@ -30,14 +30,14 @@ In this repository you can find useful information collected by chat users.
 
 ## Testing
 
-- [Mozilla docs about Django testing](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing) 🇬🇧
 - [Official Django Testing documentation](https://docs.djangoproject.com/en/dev/topics/testing/) 🇬🇧
-- [The Hitchhiker’s Guide to Python!](http://python-guide-pt-br.readthedocs.io/en/latest/writing/tests/) 🇬🇧
+- [Mozilla docs about Django testing](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing) 🇬🇧
+- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/writing/tests/#the-basics) 🇬🇧
 
 ## Useful resourses
 
 - [djangopackages.org](https://djangopackages.org/) 🇬🇧
-- [Awesome Django](https://github.com/rosarior/awesome-django) 🇬🇧
+- [Awesome Django](https://github.com/wsvincent/awesome-django) 🇬🇧
 - [Django Class-Based Views](http://ccbv.co.uk/) 🇬🇧
 - [Django REST Framework cheatsheet](http://www.cdrf.co/) 🇬🇧
 - [Classy Django Forms](http://cdf.9vo.lt/) 🇬🇧
@@ -96,7 +96,6 @@ In this repository you can find useful information collected by chat users.
 - [Pinax](https://github.com/pinax/symposion)
 - [ADFS_Managers](https://github.com/Imperat/ADFS_managers)
 - [Cadasta platform](https://github.com/Cadasta/cadasta-platform)
-- [Nodeshot](https://github.com/ninuxorg/nodeshot)
 - [Zulip server - group chat](https://github.com/zulip/zulip)
 
 ## Chat rules and recommendations
@@ -118,5 +117,6 @@ In this repository you can find useful information collected by chat users.
     ```
 
 - In case of long snippets, please use special services:
+  - [pastebin.com](https://pastebin.com/)
   - [dpaste.de](https://dpaste.de/)
   - [github gist](https://gist.github.com/)
