@@ -117,5 +117,6 @@ In this repository you can find useful information collected by chat users.
     ```
 
 - In case of long snippets, please use special services:
+  - [pastebin.com](https://pastebin.com/)
   - [dpaste.de](https://dpaste.de/)
   - [github gist](https://gist.github.com/)

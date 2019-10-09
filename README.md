@@ -117,5 +117,6 @@
     ```
 
 - В случае с большими фрагментами, пользуйтесь специальными сервисами:
+  - [pastebin.com](https://pastebin.com/)
   - [dpaste.de](https://dpaste.de/)
   - [github gist](https://gist.github.com/)
