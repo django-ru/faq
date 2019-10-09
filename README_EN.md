@@ -1,8 +1,8 @@
 # FAQ by telegram-chat [@pydjango](https://t.me/pydjango) 🇬🇧
 
-In this repository you can find useful information collected by chat users.
-
 [Russian version](README.md)
+
+In this repository you can find useful information collected by chat users.
 
 ## Where to start
 
