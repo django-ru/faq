@@ -20,6 +20,6 @@
     "yaspeller-ci": "^1.0.1"
   },
   "dependencies": {
-    "yaspeller": "^5.1.0"
+    "yaspeller": "^8.0.1"
   }
 }
